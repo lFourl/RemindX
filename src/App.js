@@ -21,7 +21,7 @@ function App(props) {
           autoComplete="off"
         />
         <button type="submit" className="btn btn__primary btn__lg">
-          Add
+          Add2
         </button>
       </form>
       <div className="filters btn-group stack-exception">
