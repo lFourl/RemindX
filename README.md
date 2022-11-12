@@ -1,2 +1,0 @@
-# RemindX
-React Remind App
